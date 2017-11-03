@@ -1,6 +1,6 @@
 {
   "name": "font-loader",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Fonts with webpack.",
   "author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
   "contributors": [
@@ -10,7 +10,7 @@
     }
   ],
   "main": "lib/font-loader.js",
-  "repository": "kevinrademan/font-loader",
+  "repository": "SISheogorath/font-loader",
   "dependencies": {
     "bluebird": "^2.9.26",
     "loader-utils": "^0.2.7",
